@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayasvini Karunarathna</h1>
 <h3 align="center">Computer Science with AI undergraduate passionate about accessible design, intuitive interfaces, and problem-solving through technology.</h3>
 
-- 🔭 I’m currently working on **Image processing and AI projects**
+- 🔭 I’m currently working on **Data Analysis and AI projects**
 
 - 🌱 I’m currently following my **HND on Computer Science with Artificial Intelligence at NIBM - KIC**
 
