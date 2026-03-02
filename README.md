@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayasviniK&label=Profile views&color=0e75b6&style=flat" alt="ayasviniK" /> </p>
 
-- 🔭 I'm currently working on **Data Analysis and AI projects**
+- 🔭 I'm currently working on **AI projects**
 
-- 🌱 I'm currently learning **React, Typescript and Data analysis**
+- 🌱 I'm currently learning **AI/ML, web development and Data analysis**
 
 - 👯 I’m currently following my **HND on Computer Science with Artificial Intelligence at NIBM - KIC**
 
