@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ayasviniK">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1114&text=Hello!%20I'm%20Ayasvini%20Karunarathna" alt="Hello! I&#39;m Ayasvini" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Ayasvini" alt="Hello! I&#39;m Ayasvini" />
   </a>
 </p>
 
